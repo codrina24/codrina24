@@ -5,16 +5,26 @@
 ## Skills
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,cs,html,css&perline=5)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css&perline=5" />
+</p>
 
 ### OS / Environment
-![Systems](https://skillicons.dev/icons?i=linux,debian&perline=2)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,debian&perline=2" />
+</p>
 
 ### Databases / Containers
-![Databases & Docker](https://skillicons.dev/icons?i=mysql,docker&perline=2)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,docker&perline=2" />
+</p>
 
 ### Version Control
-![Git](https://skillicons.dev/icons?i=git,github&perline=2)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github&perline=2" />
+</p>
 
 ### Editors
-![Editors](https://skillicons.dev/icons?i=vim,neovim,vscode&perline=3)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vim,neovim,vscode&perline=3" />
+</p>
