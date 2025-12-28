@@ -4,4 +4,4 @@
 
 ## Skills
 
-![42 Stack](https://skillicons.dev/icons?i=c,cpp,vim,bash,git,gcc,clang,cmake,gdb,docker&perline=12)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,css,debian,docker&perline=3)](https://skillicons.dev)
