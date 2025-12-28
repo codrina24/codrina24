@@ -4,27 +4,14 @@
 
 ## Skills
 
-### Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css&perline=5" />
 </p>
 
-### OS / Environment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,debian&perline=2" />
+  <img src="https://skillicons.dev/icons?i=linux,debian,mysql,docker,git,github&perline=6" />
 </p>
 
-### Databases / Containers
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,docker&perline=2" />
-</p>
-
-### Version Control
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github&perline=2" />
-</p>
-
-### Editors
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vim,neovim,vscode&perline=3" />
 </p>
