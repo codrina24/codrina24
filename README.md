@@ -18,7 +18,6 @@
 
 ### Tools & Platforms
 
-https://api.devicons.dev.br/icon?icons=VIM&size=48&theme=dark&perline=30
 
 
 <br><br>
