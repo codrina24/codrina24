@@ -5,7 +5,7 @@
 These are my skills:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,linux,debian,mysql,docker,git,github,vim,neovim,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,linux,debian,mysql,docker,git,github,vim,neovim,vscode&perline=14" />
 </p>
 
 Check out my [projects](https://github.com/codrina24?tab=repositories).
