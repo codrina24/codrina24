@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<img width="477" height="523" alt="Drssel-1_1240529087-removebg-preview" src="https://github.com/user-attachments/assets/95b097e0-ac7a-457d-ac7c-f136bc4edb7a" />
+<img width="1536" height="1024" alt="readme_robotic" src="https://github.com/user-attachments/assets/7fef5086-d281-4703-b9c2-d3655774271b" />
