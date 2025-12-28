@@ -4,5 +4,4 @@
 
 ## Skills
 
-![Tools](https://skillicons.dev/icons?i=vscode,vim,neovim,emacs,bash,zsh,tmux,iterm,git,github,gcc,clang,cmake,gdb,docker,virtualbox,postman,wireshark,mysql,postgres)
-
+![42 Stack](https://skillicons.dev/icons?i=c,cpp,vim,bash,git,gcc,clang,cmake,gdb,docker&perline=12)
