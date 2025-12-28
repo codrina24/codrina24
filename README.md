@@ -4,4 +4,14 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,css,debian,docker&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,css&perline=3)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=css,html&perline=2)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=linux,debian&perline=2)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,doker&perline=2)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,github&perline=2)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=vim,neovim,vscode&perline=3)](https://skillicons.dev)
