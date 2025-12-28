@@ -3,7 +3,6 @@
 <img width="1536" height="1024" alt="readme_robotic" src="https://github.com/user-attachments/assets/7fef5086-d281-4703-b9c2-d3655774271b" />
 
 ## Skills
-## 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40"/>
