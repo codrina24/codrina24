@@ -4,7 +4,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,css&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs&perline=3)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=css,html&perline=2)](https://skillicons.dev)
 
