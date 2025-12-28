@@ -1,6 +1,6 @@
 ## Hey, there! 👋
 
-**I'm Codrina** - immersed in intensive training at 42 Paris, where I develop projects in C/C++ and explore graphics, virtual machines, and networking.
+**I'm Codrina** - immersed in intensive training at 42 Paris, where I develop projects in C/C++, explore graphics, virtual machines, and networking.
 
 Check out my [projects](https://github.com/codrina24?tab=repositories).
 
