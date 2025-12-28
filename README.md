@@ -4,14 +4,17 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs&perline=3)](https://skillicons.dev)
+### Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,cs,html,css&perline=5)
 
-[![My Skills](https://skillicons.dev/icons?i=css,html&perline=2)](https://skillicons.dev)
+### OS / Environment
+![Systems](https://skillicons.dev/icons?i=linux,debian&perline=2)
 
-[![My Skills](https://skillicons.dev/icons?i=linux,debian&perline=2)](https://skillicons.dev)
+### Databases / Containers
+![Databases & Docker](https://skillicons.dev/icons?i=mysql,docker&perline=2)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,doker&perline=2)](https://skillicons.dev)
+### Version Control
+![Git](https://skillicons.dev/icons?i=git,github&perline=2)
 
-[![My Skills](https://skillicons.dev/icons?i=git,github&perline=2)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=vim,neovim,vscode&perline=3)](https://skillicons.dev)
+### Editors
+![Editors](https://skillicons.dev/icons?i=vim,neovim,vscode&perline=3)
