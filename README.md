@@ -10,7 +10,7 @@ Check out my [projects](https://github.com/codrina24?tab=repositories).
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,cs,html,css&perline=5" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,cs,html,css, js&perline=5" />
 </p>
 
 <p align="center">
