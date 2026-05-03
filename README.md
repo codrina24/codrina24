@@ -1,6 +1,6 @@
 ## Hey, there! 👋
 
-**I'm Codrina** - immersed in intensive training at 42 Paris, where I develop projects in C/C++, explore graphics, virtual machines, and networking.
+**I'm Codrina** — a junior developer who has completed the 42 Paris Common Core, where I built projects in C and C++, exploring graphics, virtual machines, and networking. I also work with TypeScript and Python.
 
 Check out my [projects](https://github.com/codrina24?tab=repositories).
 
