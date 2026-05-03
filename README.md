@@ -1,6 +1,6 @@
 ## Hey, there! 👋
 
-**I'm Codrina** — a junior developer who has completed the 42 Paris Common Core, where I built projects in C and C++, exploring graphics, virtual machines, and networking. I also work with TypeScript and Python.
+**I'm Codrina** — Junior developer, 42 Paris Common Core graduate. Experienced in C, C++, TypeScript, and building full-stack SaaS-style projects. Currently specializing in Python and AI.
 
 Check out my [projects](https://github.com/codrina24?tab=repositories).
 
