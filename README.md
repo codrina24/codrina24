@@ -5,7 +5,7 @@
 Check out my [projects](https://github.com/codrina24?tab=repositories).
 
 <p align="center">
-  <h2> Skills ⚡</h2>
+  <h2> Skills </h2>
 </p>
 
 
