@@ -10,11 +10,11 @@ Check out my [projects](https://github.com/codrina24?tab=repositories).
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,cs,html,css,js,nodejs,go,ai&perline=5" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,cs,html,css,js,nodejs,go,react,tailwind,vite,ai&perline=5" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,debian,mysql,docker,git,github&perline=6" />
+  <img src="https://skillicons.dev/icons?i=linux,debian,mysql,sqlite,docker,nginx,npm,git,github&perline=6" />
 </p>
 
 <p align="center">
